@@ -7,6 +7,6 @@
 body{
     background-image: url(../1.jpg) ;
     height: 100vh;
-    list-style-type: none;
-    margin: 25px;
+    background-size: cover;
+    background-position: center;
 }
