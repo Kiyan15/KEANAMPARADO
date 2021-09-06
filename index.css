@@ -46,11 +46,20 @@ ul li.active a{
     height: auto;
 }
 
+.Picture img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
 
     .main{
         max-width: 1200px;
         margin: auto;
     }
+
     .title{
         position: absolute;
         top: 50%;
