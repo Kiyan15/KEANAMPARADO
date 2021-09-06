@@ -40,6 +40,12 @@ ul li.active a{
     color: rgb(247, 247, 247);
 }
 
+.logo img{
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
 
     .main{
         max-width: 1200px;
